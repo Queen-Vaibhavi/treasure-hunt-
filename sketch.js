@@ -6,7 +6,7 @@ function preload() {
   bg = loadImage("aladdin_cave2.jpg");
   bg2 = loadImage("treasure.jpg")
   audio = loadSound("mixkit-classroom-spontaneous-applause-500.wav");
-  aladdinImg = loadImage("aladdin.png");
+  aladdinImg = loadImage("Aladdin.png");
 }
 
 function setup() {
